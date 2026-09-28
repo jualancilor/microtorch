@@ -1,0 +1,32 @@
+Sonnet XVIII (William Shakespeare, 1609 — public domain)
+
+Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+And summer's lease hath all too short a date;
+Sometime too hot the eye of heaven shines,
+And often is his gold complexion dimm'd;
+And every fair from fair sometime declines,
+By chance or nature's changing course untrimm'd;
+But thy eternal summer shall not fade,
+Nor lose possession of that fair thou ow'st;
+Nor shall Death brag thou wander'st in his shade,
+When in eternal lines to time thou grow'st:
+So long as men can breathe or eyes can see,
+So long lives this, and this gives life to thee.
+
+From "Hamlet", Act III, Scene 1:
+
+To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles
+And by opposing end them. To die: to sleep;
+No more; and by a sleep to say we end
+The heart-ache and the thousand natural shocks
+That flesh is heir to, 'tis a consummation
+Devoutly to be wish'd.
+
+Character coverage line (keeps the vocabulary broad for interactive demos):
+The quick brown fox jumps over the lazy dog! 0123456789
+"$%&()*+,-./:;<=>?@[\]^_`{|}~ #ABCDEFGHIJKLMNOPQRSTUVWXYZ
